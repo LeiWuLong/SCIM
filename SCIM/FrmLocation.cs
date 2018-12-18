@@ -15,7 +15,7 @@ namespace SCIM
 {
     public partial class FrmLocation : Form
     {
-        //test commit
+        //test second commit
         ILocationService _locationService;
         List<TblLocation> lstLocation = new List<TblLocation>();
 
