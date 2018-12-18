@@ -1,0 +1,12 @@
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Logic\obj\Debug\SCIM_Logic.csprojAssemblyReference.cache
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Logic\obj\Debug\SCIM_Logic.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Logic\bin\Debug\SCIM_Logic.dll
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Logic\bin\Debug\SCIM_Logic.pdb
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Logic\bin\Debug\SCIM_Contracts.dll
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Logic\bin\Debug\SCIM_Processor.dll
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Logic\bin\Debug\SCIM_Contracts.pdb
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Logic\bin\Debug\SCIM_Processor.pdb
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Logic\bin\Debug\SCIM_Processor.dll.config
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Logic\obj\Debug\SCIM_Logic.csproj.CopyComplete
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Logic\obj\Debug\SCIM_Logic.dll
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Logic\obj\Debug\SCIM_Logic.pdb

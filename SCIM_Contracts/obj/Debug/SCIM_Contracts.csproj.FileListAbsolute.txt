@@ -1,0 +1,12 @@
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Contracts\obj\Debug\SCIM_Contracts.csprojAssemblyReference.cache
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Contracts\obj\Debug\SCIM_Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Contracts\bin\Debug\SCIM_Contracts.dll
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Contracts\bin\Debug\SCIM_Contracts.pdb
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Contracts\bin\Debug\SCIM_Processor.dll
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Contracts\bin\Debug\EntityFramework.dll
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Contracts\bin\Debug\SCIM_Processor.pdb
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Contracts\bin\Debug\SCIM_Processor.dll.config
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Contracts\bin\Debug\EntityFramework.xml
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Contracts\obj\Debug\SCIM_Contracts.csproj.CopyComplete
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Contracts\obj\Debug\SCIM_Contracts.dll
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Contracts\obj\Debug\SCIM_Contracts.pdb
