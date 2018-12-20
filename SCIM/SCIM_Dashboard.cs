@@ -157,8 +157,9 @@ namespace SCIM
 
         private void definePOToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            ILocationService locationService = new LocationService();
-            FrmLocation childForm = new FrmLocation(locationService);
+            IPurchaseOrderService purchaseOrderService = new PurchaseOrderService();
+            IProductService productService = new ProductService();
+            FrmPurchaseOrder childForm = new FrmPurchaseOrder(purchaseOrderService,productService);
             childForm.MdiParent = this;
             // childForm.Text = "FrmUser " + childFormNumber++;
             childForm.Dock = DockStyle.Fill;

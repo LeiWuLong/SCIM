@@ -19,3 +19,6 @@ D:\Projects\dotnet\SCIM\SCIM\SCIM_Processor\obj\Debug\SCIM_Processor.Migrations.
 D:\Projects\dotnet\SCIM\SCIM\SCIM_Processor\obj\Debug\SCIM_Processor.Migrations.doublepriceproduct.resources
 D:\Projects\dotnet\SCIM\SCIM\SCIM_Processor\obj\Debug\SCIM_Processor.Migrations.dim_location.resources
 D:\Projects\dotnet\SCIM\SCIM\SCIM_Processor\obj\Debug\SCIM_Processor.Migrations.product_qty.resources
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Processor\obj\Debug\SCIM_Processor.Migrations.purchaseorder.resources
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Processor\obj\Debug\SCIM_Processor.Migrations.purchase_orders.resources
+D:\Projects\dotnet\SCIM\SCIM\SCIM_Processor\obj\Debug\SCIM_Processor.Migrations.po_quantity.resources

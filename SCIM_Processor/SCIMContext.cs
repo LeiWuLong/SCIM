@@ -24,7 +24,8 @@ namespace SCIM_Processor
         public virtual DbSet<TblTest> TblTest { get; set; }
         public virtual DbSet<TblProduct> TblProduct { get; set; }
         public virtual DbSet<TblLocation> TblLocation { get; set; }
-
+        public virtual DbSet<TblPurchaseOrder> TblPurchaseOrder { get; set; }
+        public virtual DbSet<TblPurchaseOrderDetails> TblPurchaseOrderDetails { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
 

@@ -119,11 +119,18 @@ namespace SCIM
 
         private void cmbLocation_SelectionChangeCommitted(object sender, EventArgs e)
         {
-            TblLocation selectedLocation = new TblLocation();
+            //if selected is valid, render location name in textbox. else, clear it
+            if(Convert.ToInt32(cmbLocation.SelectedValue)!=0)
+            { 
+                    TblLocation selectedLocation = new TblLocation();
 
-            selectedLocation = _locationService.GetLocationbyId(Convert.ToInt32(cmbLocation.SelectedValue));
-            txtLocationName.Text = selectedLocation.LocationName.Trim();
-
+                    selectedLocation = _locationService.GetLocationbyId(Convert.ToInt32(cmbLocation.SelectedValue));
+                    txtLocationName.Text = selectedLocation.LocationName.Trim();
+            }
+            else
+            {
+                txtLocationName.Clear();
+            }
         }
     }
 }

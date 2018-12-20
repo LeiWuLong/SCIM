@@ -74,6 +74,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DTO\PurchaseOrderDTO.cs" />
     <Compile Include="DTO\UserAccessDTO.cs" />
     <Compile Include="Migrations\201810221538371_testingplural2.cs" />
     <Compile Include="Migrations\201810221538371_testingplural2.Designer.cs">
@@ -99,9 +100,27 @@
     <Compile Include="Migrations\201812100905016_product_qty.Designer.cs">
       <DependentUpon>201812100905016_product_qty.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201812180748268_purchaseorder.cs" />
+    <Compile Include="Migrations\201812180748268_purchaseorder.Designer.cs">
+      <DependentUpon>201812180748268_purchaseorder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201812200822425_purchase_orders.cs" />
+    <Compile Include="Migrations\201812200822425_purchase_orders.Designer.cs">
+      <DependentUpon>201812200822425_purchase_orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201812200835418_po_quantity.cs" />
+    <Compile Include="Migrations\201812200835418_po_quantity.Designer.cs">
+      <DependentUpon>201812200835418_po_quantity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201812200846598_product_key_to_id.cs" />
+    <Compile Include="Migrations\201812200846598_product_key_to_id.Designer.cs">
+      <DependentUpon>201812200846598_product_key_to_id.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\TblLocation.cs" />
     <Compile Include="Models\TblProduct.cs" />
+    <Compile Include="Models\TblPurchaseOrder.cs" />
+    <Compile Include="Models\TblPurchaseOrderDetails.cs" />
     <Compile Include="Models\TblTest.cs" />
     <Compile Include="Models\TblUser.cs" />
     <Compile Include="Models\TblUserAccess.cs" />
@@ -132,6 +151,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201812100905016_product_qty.resx">
       <DependentUpon>201812100905016_product_qty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201812180748268_purchaseorder.resx">
+      <DependentUpon>201812180748268_purchaseorder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201812200822425_purchase_orders.resx">
+      <DependentUpon>201812200822425_purchase_orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201812200835418_po_quantity.resx">
+      <DependentUpon>201812200835418_po_quantity.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

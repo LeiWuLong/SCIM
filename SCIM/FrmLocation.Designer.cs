@@ -40,7 +40,7 @@
             // cmbLocation
             // 
             this.cmbLocation.FormattingEnabled = true;
-            this.cmbLocation.Location = new System.Drawing.Point(189, 38);
+            this.cmbLocation.Location = new System.Drawing.Point(113, 22);
             this.cmbLocation.Name = "cmbLocation";
             this.cmbLocation.Size = new System.Drawing.Size(210, 21);
             this.cmbLocation.TabIndex = 19;
@@ -50,7 +50,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Arial", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(31, 39);
+            this.label3.Location = new System.Drawing.Point(22, 24);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(71, 19);
             this.label3.TabIndex = 18;
@@ -58,14 +58,14 @@
             // 
             // txtLocationName
             // 
-            this.txtLocationName.Location = new System.Drawing.Point(189, 75);
+            this.txtLocationName.Location = new System.Drawing.Point(113, 59);
             this.txtLocationName.Name = "txtLocationName";
             this.txtLocationName.Size = new System.Drawing.Size(210, 20);
             this.txtLocationName.TabIndex = 17;
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(221, 117);
+            this.btnAdd.Location = new System.Drawing.Point(145, 101);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(75, 30);
             this.btnAdd.TabIndex = 21;
@@ -75,7 +75,7 @@
             // 
             // btnCancel
             // 
-            this.btnCancel.Location = new System.Drawing.Point(383, 117);
+            this.btnCancel.Location = new System.Drawing.Point(307, 101);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(75, 30);
             this.btnCancel.TabIndex = 23;
@@ -85,7 +85,7 @@
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(302, 117);
+            this.btnDelete.Location = new System.Drawing.Point(226, 101);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(75, 30);
             this.btnDelete.TabIndex = 22;
@@ -95,7 +95,7 @@
             // 
             // btnSave
             // 
-            this.btnSave.Location = new System.Drawing.Point(219, 117);
+            this.btnSave.Location = new System.Drawing.Point(143, 101);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(77, 30);
             this.btnSave.TabIndex = 20;
@@ -107,7 +107,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(498, 177);
+            this.ClientSize = new System.Drawing.Size(431, 155);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnDelete);

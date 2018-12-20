@@ -23,5 +23,7 @@ namespace SCIM_Processor.Models
         public int ProductQuantity { get; set; }
 
         public bool IsDeleted { get; set; }
+
+        public int LocationId { get; set; }
     }
 }

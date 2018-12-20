@@ -208,6 +208,7 @@
             this.Controls.Add(this.txtPOCode);
             this.Name = "FrmPurchaseOrder";
             this.Text = " Define Purchase Order";
+            this.Load += new System.EventHandler(this.FrmPurchaseOrder_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvProducts)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
